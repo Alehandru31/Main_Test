@@ -8,5 +8,6 @@ public class Main {
     }
     public static void getElementsOfArray(int[] numer){
         System.out.println(numer[0]+"/"+numer[numer.length-1]);
+        System.out.println("Alex");
     }
 }
