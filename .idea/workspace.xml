@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="059d8b1e-bd19-4be4-8410-6cd64fafbbf7" name="Changes" comment="Nou">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/Test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/Test/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/out/production/Test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/out/production/Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/out/production/Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/out/test/Main_Test/out/production/Test/Test.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="059d8b1e-bd19-4be4-8410-6cd64fafbbf7" name="Changes" comment="Nou1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +29,14 @@
       <recent name="E:\Java\github\Main_Test\Test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -60,6 +46,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668020242494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nou1">
+      <created>1668022020769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668022020769</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,8 +115,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nou1" />
     <MESSAGE value="Nou" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nou" />
+    <MESSAGE value="Nou1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nou1" />
   </component>
 </project>
