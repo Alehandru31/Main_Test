@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="059d8b1e-bd19-4be4-8410-6cd64fafbbf7" name="Changes" comment="Nou">
+    <list default="true" id="059d8b1e-bd19-4be4-8410-6cd64fafbbf7" name="Changes" comment="Nou1">
+      <change afterPath="$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/ITProger Lesson12/src/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/ITProger Lesson12/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19"
+    "jdk.selected.JAVA_MODULE": "11"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -31,10 +42,17 @@
       <recent name="E:\Java\github\Main_Test\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main " type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ITProger Lesson12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,10 +68,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main " />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main " />
       </list>
     </recent_temporary>
@@ -109,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668022757085</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Nou1">
+      <created>1668023438692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668023438692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,8 +151,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nou1" />
     <MESSAGE value="Nou" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nou" />
+    <MESSAGE value="Nou1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nou1" />
   </component>
 </project>
