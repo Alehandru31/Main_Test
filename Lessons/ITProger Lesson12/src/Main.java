@@ -1,3 +1,5 @@
+//Создание классов и объектов
+
 public class Main {
     public static void main(String[] args) {
      Cars honda=new Cars();
