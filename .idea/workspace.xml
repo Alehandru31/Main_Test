@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688c5cc8-7781-4100-96b4-74d994931b3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="98d13d95-7fb0-4b47-9d1d-3908f318d38e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson13/ITProger Lesson13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson13/src/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/ITProger Lesson13/src/Cars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Problems.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ProjectId" id="2HNBc0c4pWB09gShzXoIoWfnbXI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98d13d95-7fb0-4b47-9d1d-3908f318d38e" name="Changes" comment="" />
+      <created>1668115740063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668115740063</updated>
+    </task>
     <servers />
   </component>
 </project>
