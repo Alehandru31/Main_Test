@@ -5,6 +5,8 @@
 public class Main {
     public static void main(String[] args) {
         Cow burenka = new Cow("Muuuu", 25); // Rezervam memorie pentru crearea clasei de crw si se da denumirea de burenka
+        Ciinele bobic = new Ciinele("Muhtar", "Ham Ham");
         burenka.mu();      // Se cheama metoda mu cre se afla in cow
+        bobic.latra();
     }
 }
