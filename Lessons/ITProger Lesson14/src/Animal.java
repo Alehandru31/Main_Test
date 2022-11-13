@@ -1,13 +1,13 @@
 public class Animal {
-    private String say=".....";
-    private int teeth=8;
+    private String say=".....";  // Variabila de tip string
+    private int teeth=8;    // Peremenca de tit int
 
-    public String getSay() {
-        return say;
+    public String getSay() {  //chemarea metodei getSay. Se citeste ce informatie se afla in variabila say
+        return say;           //Se returneaza aceasta informatie acolo unde a fost ceruta acest metod
     }
 
-    public void setSay(String say) {
-        this.say = say;
+    public void setSay(String say) { //Se primesc parametrii indicati in main
+        this.say = say;              //Se scriu acest parametru in say
     }
 
     public int getTeeth() {
