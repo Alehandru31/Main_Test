@@ -8,7 +8,7 @@ public class Cow extends Animal{
     @Override   //Se face pereapredelenie metoda
     public String getSay() {  //Se citeste informatia din say
         String s=super.getSay();// Se foloseste metoda super informatia obtinuta din metoda getSay se salveaza in s.
-        return nume+" Clasno!";    //Aici se face schimbarea sau returnarea la ambele informatii
+        return s+" Clasno!";    //Aici se face schimbarea sau returnarea la ambele informatii
     }
 
     void mu(){   //Metoda pentru vaca mu
