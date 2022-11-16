@@ -1,4 +1,8 @@
-import java.lang.reflect.Array;
+//Создайте массив «ArrayList». Добавьте в него элементы:
+//
+//5, 6, 20, 1
+//При помощи цикла «for» выведите все элементы на экран в формате:
+// «El: element», где element – значение элемента.
 import java.util.ArrayList;
 
 public class Main {
