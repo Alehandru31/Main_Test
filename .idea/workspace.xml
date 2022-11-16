@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f1a940a-5dbe-40f2-9f1e-674dfa213826" name="Changes" comment="Rezolvat">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.6/ITProger Problems_3.6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f1a940a-5dbe-40f2-9f1e-674dfa213826" name="Changes" comment="Rezolvata" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668592327513</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Rezolvata">
+      <created>1668599267033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668599267033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +143,8 @@
     <MESSAGE value="rezolvare" />
     <MESSAGE value="lectie" />
     <MESSAGE value="Rezolvat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rezolvat" />
+    <MESSAGE value="Rezolvata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rezolvata" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Main_Test$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1668598922663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
