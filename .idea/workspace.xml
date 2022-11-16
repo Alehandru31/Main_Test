@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f1a940a-5dbe-40f2-9f1e-674dfa213826" name="Changes" comment="rezolvare">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/.idea/Problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.3/ITProger Problems_3.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.4/ITProger Problems_3.4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.5/ITProger Problems_3.5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.6/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -89,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668433231271</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rezolvare">
+      <created>1668589791411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668589791412</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
