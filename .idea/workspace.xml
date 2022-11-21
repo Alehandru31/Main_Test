@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bedd7918-b491-40d7-9001-e5a1d5cca873" name="Changes" comment="Rezolvat">
-      <change afterPath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/src/Problem11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/src/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.12/src/Problems12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.12/src/Study.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,7 +39,7 @@
     "jdk.selected.JAVA_MODULE": "11"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem11">
+  <component name="RunManager" selected="Application.Problems12">
     <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps" />
       <module name="ITProger Problems_3.9" />
@@ -49,7 +49,7 @@
     </configuration>
     <configuration name="Problem11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem11" />
-      <module name="ITProgers Problems_3.11" />
+      <module name="ITProger Problems_3.11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problems12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems12" />
+      <module name="ITProger Problems_3.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problems12" />
         <item itemvalue="Application.Problem11" />
         <item itemvalue="Application.Problems10" />
         <item itemvalue="Application.HashMaps" />
@@ -85,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669018746360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rezolvat">
+      <created>1669021969974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669021969974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
