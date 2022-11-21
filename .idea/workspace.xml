@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bedd7918-b491-40d7-9001-e5a1d5cca873" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.10/src/Problems10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.10/src/Study.java" afterDir="false" />
+    <list default="true" id="bedd7918-b491-40d7-9001-e5a1d5cca873" name="Changes" comment="Rezolvat">
+      <change afterPath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/src/Problem11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/src/Study.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/src/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/src/HashMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +39,17 @@
     "jdk.selected.JAVA_MODULE": "11"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problems10">
+  <component name="RunManager" selected="Application.Problem11">
     <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps" />
       <module name="ITProger Problems_3.9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem11" />
+      <module name="ITProgers Problems_3.11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -58,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem11" />
         <item itemvalue="Application.Problems10" />
         <item itemvalue="Application.HashMaps" />
       </list>
@@ -72,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669016754513</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rezolvat">
+      <created>1669018746360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669018746360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rezolvat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rezolvat" />
   </component>
 </project>
