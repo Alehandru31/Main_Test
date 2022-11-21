@@ -1,68 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4e94f72-7db3-4be9-8bfa-0c751d8f70d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="bedd7918-b491-40d7-9001-e5a1d5cca873" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.10/src/Problems10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.10/src/Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.2/ITProger Problems_3.2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.3/ITProger Problems_3.3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.4/ITProger Problems_3.4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.5/ITProger Problems_3.5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.6/ITProger Problems_3.6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/src/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/src/HashMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectId" id="2HgGxSvkGBTW6bkUMbaPXUEazQv" />
+  <component name="ProjectId" id="2HqdsDNtonWoeF6l5CEFe4MKSEQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.Problems10">
     <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="MAIN_CLASS_NAME" value="HashMaps" />
       <module name="ITProger Problems_3.9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ITProger Problems_3.8" />
+    <configuration name="Problems10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems10" />
+      <module name="ITProger Problems_3.10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HashMaps" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Problems10" />
         <item itemvalue="Application.HashMaps" />
       </list>
     </recent_temporary>
@@ -70,11 +66,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e4e94f72-7db3-4be9-8bfa-0c751d8f70d4" name="Changes" comment="" />
-      <created>1668698973807</created>
+      <changelist id="bedd7918-b491-40d7-9001-e5a1d5cca873" name="Changes" comment="" />
+      <created>1669016754513</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668698973807</updated>
+      <updated>1669016754513</updated>
     </task>
     <servers />
   </component>

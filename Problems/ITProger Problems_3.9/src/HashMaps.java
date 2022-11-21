@@ -25,5 +25,8 @@ public static void main (String[] args) {
         System.out.println("Ключ: " + i.getKey() + ". Значение: "
                 + i.getValue());
     }
+    //for (Map.Entry i: numbers.entrySet()){
+    //        System.out.println("Ключ: " + i.getKey() +" Значение: " + i.setValue(i));
+    //    }
 }
 }
