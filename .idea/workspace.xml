@@ -38,7 +38,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LitereMari">
+  <component name="RunManager" selected="Application.Spatii">
     <configuration name="LitereMari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LitereMari" />
       <module name="Exemple String" />
@@ -53,8 +53,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spatii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spatii" />
+      <module name="Exemple String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spatii" />
         <item itemvalue="Application.LitereMari" />
         <item itemvalue="Application.Main" />
       </list>
