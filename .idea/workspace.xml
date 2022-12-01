@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab6f293-0feb-4890-89ee-532c6c78e21e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Difereite exemple/Difereite exemple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemple String/Exemple String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Incapsuliatia/Incapsuliatia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Incapsuliatia/src/Incapsuleatiia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Metod/Metod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.10/ITProger Problems_3.10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.12/ITProger Problems_3.12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.2/ITProger Problems_3.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.3/ITProger Problems_3.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.4/ITProger Problems_3.4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.5/ITProger Problems_3.5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.6/ITProger Problems_3.6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/ITProger Problems_3.9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/ITProgers Problems_3.11.iml" afterDir="false" />
+    <list default="true" id="7ab6f293-0feb-4890-89ee-532c6c78e21e" name="Changes" comment="Corect">
+      <change afterPath="$PROJECT_DIR$/Lessons/Constructor/src/Constructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Metod/src/Incapsuleatiea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Metod/src/Incapsuleatiea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,10 +37,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Constructors">
+    <configuration name="Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors" />
+      <module name="Constructor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Incapsuleatiea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Incapsuleatiea" />
       <module name="Metod" />
@@ -57,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructors" />
         <item itemvalue="Application.Incapsuleatiea" />
       </list>
     </recent_temporary>
@@ -70,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669914588958</updated>
     </task>
+    <task id="LOCAL-00001" summary="Corect">
+      <created>1669916158370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669916158370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Corect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corect" />
   </component>
 </project>
