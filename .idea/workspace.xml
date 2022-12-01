@@ -1,116 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bece475-f564-48d5-ab5a-ef321c7ddbb8" name="Changes" comment="Cite litere si cite semne de punctuatie sunt in aceasta fraza">
-      <change afterPath="$PROJECT_DIR$/Exemple String/src/LitereMari.java" afterDir="false" />
+    <list default="true" id="f3bc00ec-8677-4505-834f-eef5ec6bd61e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Difereite exemple/Operatii string/src/StringExemple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemple String/src/LitereMari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exemple String/src/LitereMari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemple String/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exemple String/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson13/ITProger Lesson13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson14/ITProger Lesson14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.2/ITProger Problems_3.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.3/ITProger Problems_3.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.4/ITProger Problems_3.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.5/ITProger Problems_3.5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.6/ITProger Problems_3.6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/ITProger Problems_3.9.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectId" id="2HxOn5Ouz8hIsIPA74LOD7ucgQf" />
+  <component name="ProjectId" id="2IJHqnozDATRKfCRMc5BbAtxrAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Spatii">
-    <configuration name="LitereMari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LitereMari" />
-      <module name="Exemple String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Exemple String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Spatii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spatii" />
-      <module name="Exemple String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Spatii" />
-        <item itemvalue="Application.LitereMari" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1bece475-f564-48d5-ab5a-ef321c7ddbb8" name="Changes" comment="" />
-      <created>1669223434903</created>
+      <changelist id="f3bc00ec-8677-4505-834f-eef5ec6bd61e" name="Changes" comment="" />
+      <created>1669892962873</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669223434903</updated>
+      <updated>1669892962873</updated>
     </task>
-    <task id="LOCAL-00001" summary="Test">
-      <created>1669244448431</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669244448432</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Cite litere si cite semne de punctuatie sunt in aceasta fraza">
-      <created>1669317391842</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1669317391842</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test" />
-    <MESSAGE value="Cite litere si cite semne de punctuatie sunt in aceasta fraza" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cite litere si cite semne de punctuatie sunt in aceasta fraza" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Main_Test$Main.ic" NAME="Main Coverage Results" MODIFIED="1669224649497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

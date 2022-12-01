@@ -1,35 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ada031-e0df-4c08-b950-e28a55d06099" name="Changes" comment="">
+    <list default="true" id="224a7107-96d5-40f3-9454-8776f04735b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Difereite exemple/Operatii string/src/StringExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metod/src/Incapsuleatiea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metod/src/Metods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metod/src/ParametrsMetod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exemple String/src/LitereMari.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exemple String/src/LitereMari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exemple String/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exemple String/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.2/ITProger Problems_3.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.3/ITProger Problems_3.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.4/ITProger Problems_3.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.5/ITProger Problems_3.5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.6/ITProger Problems_3.6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems/ITProger Problems_3.9/ITProger Problems_3.9.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2HgD49TKlAsENtqQdSv9kUWkdYT" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2IJIcJ1zeanCqcMn1YI3HKRjjD2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Incapsuleatiea">
+    <configuration name="Incapsuleatiea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Incapsuleatiea" />
+      <module name="Metod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Metods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metods" />
+      <module name="Metod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParametrsMetod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParametrsMetod" />
+      <module name="Metod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Incapsuleatiea" />
+        <item itemvalue="Application.ParametrsMetod" />
+        <item itemvalue="Application.Metods" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5ada031-e0df-4c08-b950-e28a55d06099" name="Changes" comment="" />
-      <created>1668697641798</created>
+      <changelist id="224a7107-96d5-40f3-9454-8776f04735b5" name="Changes" comment="" />
+      <created>1669893337641</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668697641798</updated>
+      <updated>1669893337641</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
