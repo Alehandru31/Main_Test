@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c49e32c-969a-41a2-b5b0-5ee84bfa4968" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="eabcb7e7-117f-4cfa-b783-834bed2298b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/Citirea unui File.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Leson3_Iscliucenie/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/Test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Itmt7X4xO7XbSnN6Kl3IbqOfhX" />
+  <component name="ProjectId" id="2IwqqbjG46FJ6hgNp9aAEOxkZal" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,31 +29,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Incapsuleatiea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Incapsuleatiea" />
-      <module name="Metod" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Incapsuleatiea" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c49e32c-969a-41a2-b5b0-5ee84bfa4968" name="Changes" comment="" />
-      <created>1671009466795</created>
+      <changelist id="eabcb7e7-117f-4cfa-b783-834bed2298b9" name="Changes" comment="" />
+      <created>1671103186120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671009466795</updated>
+      <updated>1671103186120</updated>
     </task>
     <servers />
   </component>

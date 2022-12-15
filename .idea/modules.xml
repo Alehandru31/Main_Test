@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Difereite exemple/Citirea unui File/Citirea unui File.iml" filepath="$PROJECT_DIR$/Difereite exemple/Citirea unui File/Citirea unui File.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Lessons/Constructor/Constructor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Difereite exemple/Difereite exemple.iml" filepath="$PROJECT_DIR$/Difereite exemple/Difereite exemple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemple String/Exemple String.iml" filepath="$PROJECT_DIR$/Exemple String/Exemple String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" filepath="$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/ITProger Lesson13/ITProger Lesson13.iml" filepath="$PROJECT_DIR$/Lessons/ITProger Lesson13/ITProger Lesson13.iml" />
@@ -18,10 +18,13 @@
       <module fileurl="file://$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" filepath="$PROJECT_DIR$/Problems/ITProger Problems_3.7/ITProger Problems_3.7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" filepath="$PROJECT_DIR$/Problems/ITProger Problems_3.8/ITProger Problems_3.8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problems/ITProger Problems_3.9/ITProger Problems_3.9.iml" filepath="$PROJECT_DIR$/Problems/ITProger Problems_3.9/ITProger Problems_3.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Avansat.iml" filepath="$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Avansat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Leson3_Iscliucenie/ITProger_Leson3_Iscliucenie.iml" filepath="$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Leson3_Iscliucenie/ITProger_Leson3_Iscliucenie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problems/ITProgers Problems_3.11/ITProgers Problems_3.11.iml" filepath="$PROJECT_DIR$/Problems/ITProgers Problems_3.11/ITProgers Problems_3.11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/Incapsuliatia/Incapsuliatia.iml" filepath="$PROJECT_DIR$/Lessons/Incapsuliatia/Incapsuliatia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/Lessons.iml" filepath="$PROJECT_DIR$/Lessons/Lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/Metod/Metod.iml" filepath="$PROJECT_DIR$/Lessons/Metod/Metod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Difereite exemple/Operatii string/Operatii string.iml" filepath="$PROJECT_DIR$/Difereite exemple/Operatii string/Operatii string.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lessons/Variable_Final/Variable_Final.iml" filepath="$PROJECT_DIR$/Lessons/Variable_Final/Variable_Final.iml" />
     </modules>
   </component>
