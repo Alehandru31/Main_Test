@@ -1,40 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ada031-e0df-4c08-b950-e28a55d06099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Incapsuliatia/src/Incapsuleatiia.java" afterDir="false" />
+    <list default="true" id="c43998d8-b8ae-400d-a79f-8ca158c5b7a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ITProger_Avansata/ITProger_Leson5_Potochi/src/Potochi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITProger Lesson12/ITProger Lesson12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITProger Lesson13/ITProger Lesson13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITProger Lesson14/ITProger Lesson14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITProger_Avansat/ITProger_Leson3_Iscliucenie/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ITProger_Avansata/ITProger_Leson3_Iscliucenie/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITProger_Avansat/ITProger_Leson4_File/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ITProger_Avansata/ITProger_Leson4_File/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2HgD49TKlAsENtqQdSv9kUWkdYT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JEq6uvguIp2H1wWYiKDGUGcBGA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\github\Main_Test\Lessons\ITProger_Avansata" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5ada031-e0df-4c08-b950-e28a55d06099" name="Changes" comment="" />
-      <created>1668697641798</created>
+      <changelist id="c43998d8-b8ae-400d-a79f-8ca158c5b7a2" name="Changes" comment="" />
+      <created>1671653420221</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668697641798</updated>
+      <updated>1671653420221</updated>
     </task>
     <servers />
   </component>

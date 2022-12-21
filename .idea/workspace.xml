@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eabcb7e7-117f-4cfa-b783-834bed2298b9" name="Changes" comment="Corect">
-      <change afterPath="$PROJECT_DIR$/Lessons/ITProger_Avansat/ITProger_Leson4_File/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson12/ITProger Lesson12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson13/ITProger Lesson13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/ITProger Lesson14/ITProger Lesson14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Incapsuliatia/Incapsuliatia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Metod/Metod.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "19"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
